@@ -1,6 +1,6 @@
 # Simple PHP Website
 
-This project is the base website for the One Piece Porject by @lixogram.
+This project is the base website for the One Piece Project by @lixogram.
 
 This project is 
 
