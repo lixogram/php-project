@@ -8,12 +8,12 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'One Piece Project',
         'nav_menu' => [
-            '' => 'Home',
-            'content/about-us.php' => 'About Us',
-            'content/products.php' => 'Products',
-            'content/contact.php' => 'Contact',
+            '' => 'Characters',
+            'content/Arcs.php' => 'Arcs',
+            'content/Fights.php' => 'Fights',
+            'content/Lore.php' => 'Lore',
         ],
         'template_path' => 'template',
         'content_path' => 'content',
